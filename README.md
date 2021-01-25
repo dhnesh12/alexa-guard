@@ -5,9 +5,6 @@
 
 Alexa Guard , listens for signs of trouble such as glass breaking or your smoke alarm going off. It will then notify you when it hears anything suspicious, which might be faster when you're out of the house. With that it will notify you of recent mishappenings in your area
 
-Screenshots
-----
-![screenshot](screenshot.png)
 
 Installation
 ----
@@ -30,8 +27,5 @@ For Docker installation
 
 > [!] legal disclaimer : Usage of alexa-guard for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 =======
-Alexa Guard , listens for signs of trouble such as glass breaking or your smoke alarm going off. It will then notify you when it hears anything suspicious, which might be faster when you're out of the house. With that it will notify you of recent mishappenings in your area
 
-You might also be interested in Alexa Guard Plus, which is essentially a beefier version of the Alexa Guard. Not only will Alexa alert you when it sense a problem, it will contact authorities for you, too. At $50/year, it's the cheapest professional monitoring service around.
->>>>>>> b0703526a3582f22e8bcf4fa010e9b113a626621
-# alexa-guard
+
